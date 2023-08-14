@@ -1,0 +1,41 @@
+body, html {
+    background: rgb(161, 229, 230);
+}
+
+.flex {
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.flex2 {
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    height = 20px;
+}
+
+.border {
+    border: 2px solid rgb(161, 229, 230);
+}
+
+.button {
+    font-size: 30px;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    padding: 10px;
+    color: white;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
